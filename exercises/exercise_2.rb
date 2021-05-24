@@ -10,3 +10,4 @@ puts "----------"
 @store1.update(name: "Toronto")
 
 p @store1
+p @store2
